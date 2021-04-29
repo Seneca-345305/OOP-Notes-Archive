@@ -19,7 +19,7 @@
 - [Apr 09 - Bit More Multi-Threading, multiple inheritance, Bitwise Operators](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1617969877322/capture/)
 - [Apr 13 - Bit More Multi-Threading, multiple inheritance, Bitwise Operators](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1618334737478/capture/)
 
-## Fardad's Schedule
+## Fardad's Schedule Winter of 2021
 | Period | Start-Stop  | Mon    | Tue            | Wed        | Thu     | Fri      |
 |--------|-------------|--------|----------------|------------|---------|----------|
 | 1      | 8:00-8:50   |        |                |            |         |OOP345 NAA Lecture|
