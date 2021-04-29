@@ -19,6 +19,8 @@ You are welcome to join the session as a guest by **using your real Seneca Name*
 - [Mar 23 - Smart Pointers](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1616520526145/capture/)
 - [Mar 30 - Prepocessor Directives, pointers and Arrays](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1617125281827/capture/)
 - [Apr 06 - MultiThreading](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1617729721317/capture/)
+- [Apr 09 - Bit More Multi-Threading, multiple inheritance, Bitwise Operators](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1617969877322/capture/)
+- [Apr 13 - Bit More Multi-Threading, multiple inheritance, Bitwise Operators](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1618334737478/capture/)
 
 ## Fardad's Schedule
 | Period | Start-Stop  | Mon    | Tue            | Wed        | Thu     | Fri      |
