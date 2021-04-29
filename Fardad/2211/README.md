@@ -1,8 +1,5 @@
 ﻿# OOP345-NAA-Notes
-## Active Session
-You are welcome to join the session as a guest by **using your real Seneca Name** (what is on your student card), otherwise you will be kicked out. Click on the link below to join: (find active session hours in my schedule below) <br />
-[OOP345 active Session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=0HG3KcTVdOXEtzfJlsGXffnPApDNHBXmEWgvTA0GYVs&m=e8ce43f1a730e2478fa56e6d96881e945f6e186d&t=1618334737443&u=senecacollege)
-## Previous Sessions
+## Session Recordings
 - [Jan 15 - C++ Overview, Compilation, Execution](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1610714847716/capture/)
 - [Jan 19 - C++ Overview, Compilation and Execution & Q&A](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1611080851821/capture/)
 - [jan 22 - Pointers, References, and Arrays, Classes and Scoped Enumeration](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1611319676921/capture/)
