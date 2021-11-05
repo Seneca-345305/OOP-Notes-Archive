@@ -47,7 +47,7 @@ public:
       m_ptr = sp.m_ptr;
       sp.m_ptr = nullptr;
    }
-   sPtr<type>& operator=(sPtr<type>& sp) {
+   sPtr<type>& operator=(sPtr<type>&& sp) {
       delete m_ptr;
       m_ptr = sp.m_ptr;
       sp.m_ptr = nullptr;
