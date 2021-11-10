@@ -25,7 +25,7 @@ public:
 ostream& operator<<(ostream& os, const Employee& E) {
    return E.print(os);
 }
-
+// Is this supposed to be a "shared smart pointer"?  This will generate tons of memory leaks.
 template <typename type>
 class sPtr {
    type* m_ptr{ nullptr };
