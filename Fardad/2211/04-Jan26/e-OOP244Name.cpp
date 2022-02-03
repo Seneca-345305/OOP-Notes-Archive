@@ -81,7 +81,7 @@ public:
    }
    Name& operator=(const Name& N) {
       if (this != &N) {
-         tracer << "Assigning " << (m_value ? m_value : "(NULLstr)") << " to " << N.m_value << nl;
+         tracer << "Assigning " << m_value  << " to " << N.m_value << nl;
          delete[] m_value;
          Cstr::allocNcpy(m_value, N.m_value);
       }
@@ -96,7 +96,7 @@ public:
       return is;
    }
    ~Name() {
-      tracer << "Removing " << (m_value ? m_value : "(NULLstr)") << " from memory" << nl;
+      tracer << "Removing " << m_value  << " from memory" << nl;
       delete[] m_value;
    }
 };
